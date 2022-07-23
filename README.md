@@ -1,0 +1,2 @@
+# FotoPresonagens
+ Fotos em PNG
